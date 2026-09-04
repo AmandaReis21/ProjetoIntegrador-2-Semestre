@@ -13,7 +13,7 @@
 # Relatório da Sprint 2
 Link:
 
-# 📌 MVP - [Acompanhamento de Resultados de Exportação e Importação]
+# 📌 MVP - []
 
 ## 🎯 Objetivo do MVP 
 - Qual problema resolve?
