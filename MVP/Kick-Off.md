@@ -1,8 +1,4 @@
 # Kick-Off
-    
-## Relatório do Kick-Off
-
-[Acesse aqui]()
 
 ## Apresentação Kick-Off
 
