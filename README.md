@@ -5,7 +5,6 @@ Controle de versionamento dos artefatos do Projeto Integrador, em que o principa
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Equipe](#equipe)
 - [Backlog do Produto](#backlog-do-produto)
-- [Competências Desenvolvidas](#competências-desenvolvidas)
 - [Registro das Sprints](#registro-das-sprints)
 # Projeto 
 Análise Integrada de Segurança Viária no Brasil: Sinistros com Veiculos Pesados em Autoestradas. 
