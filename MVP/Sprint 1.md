@@ -10,7 +10,7 @@
 | 4  | Baixa  | Como Secretário de Desenvolvimento,                                                                                                                                                    | ...        | 1        |
 ## Relatório da Sprint I
 
-[Acesse aqui]()
+[Acesse aqui](https://docs.google.com/document/d/1qeIFFxbTSp26ceC6APSclErt9Av62AAGU-kcCncGHkc/edit?usp=sharing)
 
 ## Apresentação Sprint I
 
