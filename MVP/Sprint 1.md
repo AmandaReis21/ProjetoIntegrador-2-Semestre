@@ -14,7 +14,8 @@
 
 ## Apresentação Sprint I
 
-[Acesse aqui]()
+[Acesse aqui]([Meridian Log - Apresentação Inicial.pdf](https://github.com/user-attachments/files/31840310/Meridian.Log.-.Apresentacao.Inicial.pdf)
+)
 
 # 📌 MVP - [...]
 
