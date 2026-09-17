@@ -28,7 +28,9 @@ O principal objetivo deste projeto é desenvolver uma plataforma de Business Int
 # Backlog do Produto
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1  | Média   | Como Secretário da Organização Nacional de Segurança Viária,                                                                                                                                                  | ...        | 1        |
+| 1  | Média   | Gestor do Observatório
+Analista de dados
+Pesquisador de segurança viária                                                                                                                                                 | ...        | 1        |
 | 2  | Média   | Como Secretário da Organização Nacional de Segurança Viária,                                                                                                                                         | ...        | 1        |
 | 3  | Baixa   | Como Secretário da Organização Nacional de Segurança Viária,                                                                                                                                                  | ...        | 1        |
 | 4  | Baixa   | Como Secretário da Organização Nacional de Segurança Viária,                                                                                                                                                 | ...        | 1        |
