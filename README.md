@@ -28,19 +28,19 @@ O principal objetivo deste projeto é desenvolver uma plataforma de Business Int
 # Backlog do Produto
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1  | Média   | Como Secretário de Desenvolvimento,                                                                                                                                                  | ...        | 1        |
-| 2  | Média   | Como Secretário de Desenvolvimento,                                                                                                                                         | ...        | 1        |
-| 3  | Baixa   | Como Secretário de Desenvolvimento,                                                                                                                                                  | ...        | 1        |
-| 4  | Baixa   | Como Secretário de Desenvolvimento,                                                                                                                                                 | ...        | 1        |
-| 5  | Média    | Como Secretário de Desenvolvimento,                                                                                                                                   | ...        | 2        |
-| 6  | Média    | Como Secretário de Desenvolvimento,                                                                                                                                                  | ...        | 2        |
-| 7  | Alta    |                                                                                                                                                     | ...        | 2        |
-| 8  | Alta    |      | ...        | 2        |
-| 9  | Alta    | | ...        | 2        |
-| 10  | Alta    |       | ...        | 2        |
-| 11  | Alta    | Como Secretário de Desenvolvimento, | ...        | 3        |
-| 12  | Alta    | Como Secretário de Desenvolvimento,       | ...        | 3        |
-| 13  | Alta    | Como Secretário de Desenvolvimento,                                                                                                                                                      | ...        | 3  
+| 1  | Média   | Como Secretário da Organização Nacional de Segurança Viária,                                                                                                                                                  | ...        | 1        |
+| 2  | Média   | Como Secretário da Organização Nacional de Segurança Viária,                                                                                                                                         | ...        | 1        |
+| 3  | Baixa   | Como Secretário da Organização Nacional de Segurança Viária,                                                                                                                                                  | ...        | 1        |
+| 4  | Baixa   | Como Secretário da Organização Nacional de Segurança Viária,                                                                                                                                                 | ...        | 1        |
+| 5  | Média    | Como Secretário da Organização Nacional de Segurança Viária,                                                                                                                                   | ...        | 2        |
+| 6  | Média    | Como Secretário da Organização Nacional de Segurança Viária,                                                                                                                                                  | ...        | 2        |
+| 7  | Alta    | Como Secretário da Organização Nacional de Segurança Viária                                                                                                                                                    | ...        | 2        |
+| 8  | Alta    |  Como Secretário da Organização Nacional de Segurança Viária    | ...        | 2        |
+| 9  | Alta    | | Como Secretário da Organização Nacional de Segurança Viária  | ...        | 2        |
+| 10  | Alta    |  Como Secretário da Organização Nacional de Segurança Viária,      | ...        | 2        |
+| 11  | Alta    | Como Secretário da Organização Nacional de Segurança Viária, | ...        | 3        |
+| 12  | Alta    | Como Secretário da Organização Nacional de Segurança Viária,       | ...        | 3        |
+| 13  | Alta    | Como Secretário da Organização Nacional de Segurança Viária,                                                                                                                                                      | ...        | 3  
 | 14   | Alta    |                                                                                                                                                      | ...        | 3        
 
 # Registro das Sprints
