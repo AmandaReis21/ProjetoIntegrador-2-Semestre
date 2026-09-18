@@ -28,9 +28,7 @@ O principal objetivo deste projeto é desenvolver uma plataforma de Business Int
 # Backlog do Produto
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1  | Média   | Gestor do Observatório
-Analista de dados
-Pesquisador de segurança viária                                                                                                                                                 | ...        | 1        |
+| 1  | Média   | Gestor do Observatório                                                                                                                                          | ...        | 1        |
 | 2  | Média   | Como Secretário da Organização Nacional de Segurança Viária,                                                                                                                                         | ...        | 1        |
 | 3  | Baixa   | Como Secretário da Organização Nacional de Segurança Viária,                                                                                                                                                  | ...        | 1        |
 | 4  | Baixa   | Como Secretário da Organização Nacional de Segurança Viária,                                                                                                                                                 | ...        | 1        |
@@ -42,7 +40,7 @@ Pesquisador de segurança viária                                               
 | 10  | Alta    |  Como Secretário da Organização Nacional de Segurança Viária,      | ...        | 2        |
 | 11  | Alta    | Como Secretário da Organização Nacional de Segurança Viária, | ...        | 3        |
 | 12  | Alta    | Como Secretário da Organização Nacional de Segurança Viária,       | ...        | 3        |
-| 13  | Alta    | Como Secretário da Organização Nacional de Segurança Viária,                                                                                                                                                      | ...        | 3  
+| 13  | Alta    | Como Secretário da Organização Nacional de Segurança Viária,                                                                                                                              | ...        | 3  
 | 14   | Alta    |                                                                                                                                                      | ...        | 3        
 
 # Registro das Sprints
