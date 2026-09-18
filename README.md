@@ -36,7 +36,7 @@ O principal objetivo deste projeto é desenvolver uma plataforma de Business Int
 | 6  | Média    | Como Secretário da Organização Nacional de Segurança Viária,                                                                                                                                                  | ...        | 2        |
 | 7  | Alta    | Como Secretário da Organização Nacional de Segurança Viária                                                                                                                                                    | ...        | 2        |
 | 8  | Alta    |  Como Secretário da Organização Nacional de Segurança Viária    | ...        | 2        |
-| 9  | Alta    | | Como Secretário da Organização Nacional de Segurança Viária  | ...        | 2        |
+| 9  | Alta    | Como Secretário da Organização Nacional de Segurança Viária  |  | ...        | 2        |
 | 10  | Alta    |  Como Secretário da Organização Nacional de Segurança Viária,      | ...        | 2        |
 | 11  | Alta    | Como Secretário da Organização Nacional de Segurança Viária, | ...        | 3        |
 | 12  | Alta    | Como Secretário da Organização Nacional de Segurança Viária,       | ...        | 3        |
