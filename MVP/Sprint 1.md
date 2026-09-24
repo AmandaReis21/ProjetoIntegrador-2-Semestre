@@ -18,27 +18,35 @@
 [Acesse aqui](https://github.com/user-attachments/files/31840310/Meridian.Log.-.Apresentacao.Inicial.pdf)
 
 
-# 📌 MVP - [...]
+# 📌 MVP - [Níveis dos Sinistros e Relação entre Métricas]
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
 - Qual problema resolve?
-
+> Dificuldade em visualizar e relacionar os dados de sinistros de trânsito, seus níveis de gravidade, mortalidade e características populacionais, dificultando a identificação de padrões e diferenças entre regiões.
 - Qual hipótese será validada?
-
+> A hipótese de que a análise conjunta dos níveis de gravidade dos sinistros, da mortalidade e da população permite identificar padrões e diferenças relevantes entre períodos e regiões.
 - Qual valor será entregue ao usuário final?
-  
+> Disponibilizar uma visualização clara e interativa dos indicadores de sinistros, permitindo comparar níveis de gravidade, mortalidade e população entre diferentes regiões e períodos.
 
 ---
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa:
-- ...
-- Funcionalidades principais incluídas: ...
+- Funcionalidades principais incluídas: 
+> Visualização dos níveis de gravidade dos sinistros.
+> Análise da relação entre mortalidade e população.
+> Comparação dos indicadores entre diferentes regiões.
+> Comparação dos dados ao longo do período de 2015 a 2025.
+> Segmentação dos sinistros em grave, gravíssimo e fatal.
 - Limitações conhecidas:
   ...
 - Escopo reduzido: (somente o essencial para validar a ideia)
-...
+> Dashboard inicial no Power BI.
+> Dados de 2015 a 2025.
+> Indicadores de mortalidade, severidade dos sinistros e população.
+> Relação entre mortalidade e população.
+> Comparação nacional e regional.
 
 ---
 
