@@ -33,16 +33,17 @@ O principal objetivo deste projeto é desenvolver uma plataforma de Business Int
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|------------|------------|--------|
 | 1 | Alta | Como Analista de Dados, desejo coletar, limpar e estruturar os dados de mortalidade, severidade dos sinistros e população (2015-2025), visando criar uma base confiável para análises e painéis. | 4 horas | 1 |
-| 2 | Alta | Como Analista de Dados, desejo categorizar a severidade dos sinistros em Grave (sem fatalidade/capotamento/choque/colisão), Gravíssimo (atropelamento sem fatalidade) e Fatal, para refletir com precisão o grau de risco das ocorrências. | 2 horas | 1 |
-| 3 | Média | Como Pesquisador de Segurança Viária, desejo analisar a relação entre a taxa de mortalidade e a população, para compreender o impacto real dos sinistros considerando a densidade demográfica. | 3 horas | 1 |
-| 4 | Média | Como Gestor do Observatório, desejo visualizar a comparação dos dados de sinistros entre os âmbitos nacional e regional, visando identificar regiões críticas que exigem intervenções. | 3 horas | 1 |
-| 5 | Baixa | Como Gestor do Observatório, desejo acessar uma versão inicial do Power BI com as métricas levantadas, para alinhar as expectativas sobre o andamento e o layout preliminar. | 2 horas | 1 |
-| 6 | Alta | Como Analista de Dados, desejo levantar os dados de localização dos pontos de parada de descanso e calcular a distância até os sinistros com veículos pesados, visando identificar o impacto da falta de descanso nos acidentes. | 5 horas | 2 |
-| 7 | Média | Como Pesquisador de Segurança Viária, desejo categorizar a movimentação por Unidade da Receita Federal e modais de transporte, para identificar o perfil e volume das principais frotas por região. | 4 horas | 2 |
-| 8 | Baixa | Como Gestor do Observatório, espero que o Power BI seja organizado em páginas separadas por tipos de relações entre as métricas, para proporcionar uma visualização mais limpa e detalhada das informações. | 2 horas | 2 |
-| 9 | Alta | Como Pesquisador de Segurança Viária, desejo mapear os pontos de parada e a distância até a localização dos sinistros com veículos pesados no Power BI, para proporcionar a análise espacial das zonas de risco. | 4 horas | 3 |
-| 10 | Alta | Como Pesquisador de Segurança Viária, desejo desenvolver um modelo de previsão estatística de futuros acidentes e mapeamento de rotas mais viáveis, visando propor ações preventivas. | 8 horas | 3 |
-| 11 | Média | Como Gestor do Observatório, desejo receber o Power BI finalizado e validado com todas as análises e previsões integradas, visando apresentar os resultados finais aos stakeholders e direcionar ações de cobrança. | 3 horas | 3 |
+| 2 | Alta | Como Analista de Dados, desejo tratar, padronizar e integrar os dados coletados das bases **DATASUS, IBGE e PRF**, organizando informações de mortalidade, população, localização e sinistros de trânsito, para gerar uma base de dados consolidada, confiável e preparada para as análises no Power BI. | 4 horas | 1 |
+| 3 | Alta | Como Analista de Dados, desejo categorizar a severidade dos sinistros em Grave (sem fatalidade/capotamento/choque/colisão), Gravíssimo (atropelamento sem fatalidade) e Fatal, para refletir com precisão o grau de risco das ocorrências. | 2 horas | 1 |
+| 4 | Média | Como Pesquisador de Segurança Viária, desejo analisar a relação entre a taxa de mortalidade e a população, para compreender o impacto real dos sinistros considerando a densidade demográfica. | 3 horas | 1 |
+| 5 | Média | Como Gestor do Observatório, desejo visualizar a comparação dos dados de sinistros entre os âmbitos nacional e regional, visando identificar regiões críticas que exigem intervenções. | 3 horas | 1 |
+| 6 | Baixa | Como Gestor do Observatório, desejo acessar uma versão inicial do Power BI com as métricas levantadas, para alinhar as expectativas sobre o andamento e o layout preliminar. | 2 horas | 1 |
+| 7 | Alta | Como Analista de Dados, desejo levantar os dados de localização dos pontos de parada de descanso e calcular a distância até os sinistros com veículos pesados, visando identificar o impacto da falta de descanso nos acidentes. | 5 horas | 2 |
+| 8 | Média | Como Pesquisador de Segurança Viária, desejo categorizar a movimentação por Unidade da Receita Federal e modais de transporte, para identificar o perfil e volume das principais frotas por região. | 4 horas | 2 |
+| 9 | Baixa | Como Gestor do Observatório, espero que o Power BI seja organizado em páginas separadas por tipos de relações entre as métricas, para proporcionar uma visualização mais limpa e detalhada das informações. | 2 horas | 2 |
+| 10 | Alta | Como Pesquisador de Segurança Viária, desejo mapear os pontos de parada e a distância até a localização dos sinistros com veículos pesados no Power BI, para proporcionar a análise espacial das zonas de risco. | 4 horas | 3 |
+| 11 | Alta | Como Pesquisador de Segurança Viária, desejo desenvolver um modelo de previsão estatística de futuros acidentes e mapeamento de rotas mais viáveis, visando propor ações preventivas. | 8 horas | 3 |
+| 12 | Média | Como Gestor do Observatório, desejo receber o Power BI finalizado e validado com todas as análises e previsões integradas, visando apresentar os resultados finais aos stakeholders e direcionar ações de cobrança. | 3 horas | 3 |
 
 # Registro das Sprints
 
