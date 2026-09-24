@@ -34,7 +34,7 @@
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa:
 - Funcionalidades principais incluídas: 
-> Visualização dos níveis de gravidade dos sinistros.
+> - Visualização dos níveis de gravidade dos sinistros.
 > Análise da relação entre mortalidade e população.
 > Comparação dos indicadores entre diferentes regiões.
 > Comparação dos dados ao longo do período de 2015 a 2025.
