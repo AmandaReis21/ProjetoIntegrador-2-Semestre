@@ -2,7 +2,6 @@
 
 # Registro da Sprint
 
-# Backlog do Produto
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|------------|------------|--------|
 | 1 | Alta | Como Analista de Dados, desejo coletar, limpar e estruturar os dados de mortalidade, severidade dos sinistros e população (2015-2025), visando criar uma base confiável para análises e painéis. | 4 horas | 1 |
