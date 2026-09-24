@@ -35,18 +35,22 @@
 > Breve explicação do que será desenvolvido e entregue nesta etapa:
 - Funcionalidades principais incluídas: 
 > - Visualização dos níveis de gravidade dos sinistros.
-> Análise da relação entre mortalidade e população.
-> Comparação dos indicadores entre diferentes regiões.
-> Comparação dos dados ao longo do período de 2015 a 2025.
-> Segmentação dos sinistros em grave, gravíssimo e fatal.
+> - Análise da relação entre mortalidade e população.
+> - Comparação dos indicadores entre diferentes regiões.
+> - Comparação dos dados ao longo do período de 2015 a 2025.
+> - Segmentação dos sinistros em grave, gravíssimo e fatal.
+
 - Limitações conhecidas:
-  ...
+> - Análise limitada aos dados disponíveis para o período de 2015 a 2025.
+> - Os resultados dependem da qualidade e disponibilidade das bases de dados utilizadas.
+> - Nesta etapa, a análise está concentrada nas métricas de mortalidade, severidade e população.
+
 - Escopo reduzido: (somente o essencial para validar a ideia)
-> Dashboard inicial no Power BI.
-> Dados de 2015 a 2025.
-> Indicadores de mortalidade, severidade dos sinistros e população.
-> Relação entre mortalidade e população.
-> Comparação nacional e regional.
+> - Dashboard inicial no Power BI.
+> - Dados de 2015 a 2025.
+> - Indicadores de mortalidade, severidade dos sinistros e população.
+> - Relação entre mortalidade e população.
+> - Comparação nacional e regional.
 
 ---
 
