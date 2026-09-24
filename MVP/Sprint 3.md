@@ -1,13 +1,11 @@
 # Sprint 3 - Backlog
 
 # Registro da Sprint
-
 | Rank | Prioridade | User Story | Estimativa | Sprint |
-| :--- | :--- | :--- | :--- | :--- |
-| 11 | Alta | Como Secretário de Desenvolvimento,. | ... | 3 |
-| 12 | Alta |  | ... | 3 |
-| 13 | Alta | Como Secretário de Desenvolvimento, . | ... | 3 |
-| 14 | Alta | Como Secretário de Desenvolvimento,  | ... | 3 |
+|------|------------|------------|------------|--------|
+| 9 | Alta | Como Pesquisador de Segurança Viária, desejo mapear os pontos de parada e a distância até a localização dos sinistros com veículos pesados no Power BI, para proporcionar a análise espacial das zonas de risco. | 4 horas | 3 |
+| 10 | Alta | Como Pesquisador de Segurança Viária, desejo desenvolver um modelo de previsão estatística de futuros acidentes e mapeamento de rotas mais viáveis, visando propor ações preventivas. | 8 horas | 3 |
+| 11 | Média | Como Gestor do Observatório, desejo receber o Power BI finalizado e validado com todas as análises e previsões integradas, visando apresentar os resultados finais aos stakeholders e direcionar ações de cobrança. | 3 horas | 3 |
 
 # Relatório da Sprint 3
 Link: [Acesse aqui]()
