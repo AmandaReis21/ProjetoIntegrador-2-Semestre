@@ -94,3 +94,8 @@
 - Preparar a integração das novas informações ao modelo de dados utilizado no Power BI.
 
 ---
+## 📂 Anexos / Evidências
+- **5W2H:** [API - 5W2H](https://1drv.ms/x/c/4ca35ab9cf750f06/IQCqwWvYchPWTajafKZr6_ybAcMVYJb9fMHc1wML4qKDKkY?e=1DFaSg)
+
+- **FERRAMENTAS UTILIZADAS:** Power BI, Collab, Excel
+
