@@ -72,8 +72,8 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorar gráfico, centralizando o foco para anos inteiros.
-- Limpeza de dados mais objetivos.
-- Maior colaboração e inclusão entre os membros.
+- Levantar pontos de parada e analisar sua distância em relação aos sinistros com veículos pesados.
+- Criar páginas no Power BI para organizar e detalhar as relações entre as métricas.
+- Categorizar movimentações por Unidade da Receita Federal e modais de transporte, identificando as principais frotas por região.
 ---
 
