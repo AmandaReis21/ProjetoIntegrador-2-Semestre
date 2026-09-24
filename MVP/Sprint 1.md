@@ -61,14 +61,6 @@
  
 - **Pesquisador de Segurança Viária:** responsável por reunir, interpretar e analisar os dados relacionados à segurança viária, buscando compreender os principais indicadores e padrões identificados. 
 
-
-
-
-## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário observe com clareza as mudanças ocorridas em um determinado período.
-- O sistema deve registrar a movimentação de dados de exportação e importação, assim como a diversidade de produtos no decorrer dos anos.
-- Métricas coletadas: Dados de produtos, números brutos de importação e exportação.
-
 ---
 
 ## 🚀 Próximos Passos
@@ -76,4 +68,3 @@
 - Criar páginas no Power BI para organizar e detalhar as relações entre as métricas.
 - Categorizar movimentações por Unidade da Receita Federal e modais de transporte, identificando as principais frotas por região.
 ---
-
