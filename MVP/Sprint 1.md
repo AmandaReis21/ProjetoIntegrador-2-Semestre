@@ -43,7 +43,10 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Secretário de Desenvolvimento:** ...
+- **Gestor do Observatório:** quem vai cobrar essas pessoas, e vai colocar as expectativas dele
+- **Analista de dados - quem vai ser responsável para tratar, segregar e limpar os dados
+Pesquisador de segurança viária - reunir e compreender os dado
+
 
 
 
