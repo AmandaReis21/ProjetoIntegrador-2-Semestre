@@ -1,6 +1,6 @@
 # Sprint 1 - Backlog
 
-# Registro da Sprint
+## Registro da Sprint
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|------------|------------|--------|
