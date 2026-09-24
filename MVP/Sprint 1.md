@@ -55,9 +55,11 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Gestor do Observatório:** quem vai cobrar essas pessoas, e vai colocar as expectativas dele
-- **Analista de dados - quem vai ser responsável para tratar, segregar e limpar os dados
-Pesquisador de segurança viária - reunir e compreender os dado
+- **Gestor do Observatório:** responsável por definir as expectativas, requisitos e objetivos do projeto, além de acompanhar e avaliar os resultados obtidos. 
+
+- **Analista de Dados:** responsável pelo tratamento, organização, segregação, padronização e limpeza dos dados, garantindo sua qualidade e adequação para análise.
+ 
+- **Pesquisador de Segurança Viária:** responsável por reunir, interpretar e analisar os dados relacionados à segurança viária, buscando compreender os principais indicadores e padrões identificados. 
 
 
 
