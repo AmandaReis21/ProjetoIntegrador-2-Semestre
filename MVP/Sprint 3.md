@@ -49,10 +49,8 @@ Link: [Acesse aqui]()
 - Melhorias planejadas após feedback  
 - Ajustes de usabilidade  
 - Expansão de funcionalidades para próximo incremento  
-
 ---
-
 ## 📂 Anexos / Evidências
-- 5W2H DE TODAS AS SPRINTS:[API - 5W2H.xlsx]()
+- **5W2H:** [API - 5W2H](https://1drv.ms/x/c/4ca35ab9cf750f06/IQCqwWvYchPWTajafKZr6_ybAcMVYJb9fMHc1wML4qKDKkY?e=1DFaSg)
 
-- FERRAMENTAS UTILIZADAS: Power BI, Collab, Excel
+- **FERRAMENTAS UTILIZADAS:** Power BI, Collab, Excel
