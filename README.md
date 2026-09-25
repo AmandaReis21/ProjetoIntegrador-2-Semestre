@@ -49,6 +49,9 @@ O principal objetivo deste projeto é desenvolver uma plataforma de Business Int
 
 | Sprint | Previsão | Status | Documentação |
 |-------------------|------------|----------|-----------|
+
+<img width="335" height="597" alt="image" src="https://github.com/user-attachments/assets/66748cc2-6a04-4b14-a860-5470668aa412" />
+
 | 01 | 01/10/2026 | A fazer | [MVP](#) |
 | 02 | 29/10/2026 | A fazer | [MVP](#) |
 | 03 | 26/11/2026 | A fazer | [MVP](#) |
