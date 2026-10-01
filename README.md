@@ -35,8 +35,7 @@ O principal objetivo deste projeto é desenvolver uma plataforma de Business Int
 | 1 | Alta | Como Analista de Dados, desejo coletar, limpar e estruturar os dados de mortalidade, severidade dos sinistros e população (2015-2025), visando criar uma base confiável para análises e painéis. | 4 horas | 1 |
 | 2 | Alta | Como Analista de Dados, desejo tratar, padronizar e integrar os dados coletados das bases **DATASUS, IBGE e PRF**, organizando informações de mortalidade, população, localização e sinistros de trânsito, para gerar uma base de dados consolidada, confiável e preparada para as análises no Power BI. | 4 horas | 1 |
 | 3 | Alta | Como Analista de Dados, desejo categorizar a severidade dos sinistros em Grave (sem fatalidade/capotamento/choque/colisão), Gravíssimo (atropelamento sem fatalidade) e Fatal, para refletir com precisão o grau de risco das ocorrências. | 2 horas | 1 |
-| 4 | Média | Como Pesquisador de Segurança Viária, desejo analisar a relação entre a taxa de mortalidade e a quantidade de pessoas envolvidas nos acidentes. (Média)
- | 1 hora | 1 |
+| 4 | Média | Como Pesquisador de Segurança Viária, desejo analisar a relação entre a taxa de mortalidade e a quantidade de pessoas envolvidas nos acidentes. | 1 hora | 1 |
 | 5 | Média | Como Gestor do Observatório, desejo visualizar a comparação dos dados de sinistros entre os âmbitos nacional e regional, visando identificar regiões críticas que exigem intervenções. | 3 horas | 1 |
 | 6 | Baixa | Como Gestor do Observatório, desejo acessar uma versão inicial do Power BI com as métricas levantadas, para alinhar as expectativas sobre o andamento e o layout preliminar. | 2 horas | 1 |
 | 7 | Alta | Como Analista de Dados, desejo levantar os dados de localização dos pontos de parada de descanso e calcular a distância até os sinistros com veículos pesados, visando identificar o impacto da falta de descanso nos acidentes. | 5 horas | 2 |
