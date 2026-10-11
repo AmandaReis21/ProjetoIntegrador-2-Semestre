@@ -7,8 +7,13 @@
 | 7 | Média | Como Pesquisador de Segurança Viária, desejo categorizar a movimentação por Unidade da Receita Federal e modais de transporte, para identificar o perfil e volume das principais frotas por região. | 4 horas | 2 |
 | 8 | Baixa | Como Gestor do Observatório, espero que o Power BI seja organizado em páginas separadas por tipos de relações entre as métricas, para proporcionar uma visualização mais limpa e detalhada das informações. | 2 horas | 2 |
 
-# Relatório da Sprint 2
-Link:
+## Relatório da Sprint I
+
+[Acesse aqui]((https://docs.google.com/document/d/1xNO02EGJK5yUMD4mSQKXTtN0j8dPgDdI1gO-DOH35y4/edit?usp=sharing))
+
+## Apresentação Sprint I
+
+[Acesse aqui](https://github.com/user-attachments/files/31840310/Meridian.Log.-.Apresentacao.Inicial.pdf)
 
 # 📌 MVP - [Níveis dos Sinistros e Relação entre Métricas]
 
