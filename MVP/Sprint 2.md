@@ -9,7 +9,7 @@
 
 ## Relatório da Sprint I
 
-[Acesse aqui]((https://docs.google.com/document/d/1xNO02EGJK5yUMD4mSQKXTtN0j8dPgDdI1gO-DOH35y4/edit?usp=sharing))
+[Acesse aqui](https://docs.google.com/document/d/1xNO02EGJK5yUMD4mSQKXTtN0j8dPgDdI1gO-DOH35y4/edit?usp=sharing)
 
 ## Apresentação Sprint I
 
