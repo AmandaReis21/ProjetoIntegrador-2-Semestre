@@ -16,7 +16,7 @@
 
 [Acesse aqui](https://github.com/user-attachments/files/31840310/Meridian.Log.-.Apresentacao.Inicial.pdf)
 
-# 📌 MVP - [Níveis dos Sinistros e Relação entre Métricas]
+# 📌 MVP - [Análise Comparativa Proporcional entre os Anos e Relação entre Métricas]
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
