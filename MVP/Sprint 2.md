@@ -3,10 +3,10 @@
 ## Registro da Sprint
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|------------|------------|--------|
-| 6 | Alta | Como Analista de Dados, desejo levantar os dados de localização dos pontos de parada de descanso e calcular a distância até os sinistros com veículos pesados, visando identificar o impacto da falta de descanso nos acidentes. | 5 horas | 2 |
-| 7 | Média | Como Pesquisador de Segurança Viária, desejo categorizar a movimentação por Unidade da Receita Federal e modais de transporte, para identificar o perfil e volume das principais frotas por região. | 4 horas | 2 |
-| 8 | Baixa | Como Gestor do Observatório, espero que o Power BI seja organizado em páginas separadas por tipos de relações entre as métricas, para proporcionar uma visualização mais limpa e detalhada das informações. | 2 horas | 2 |
-| 9 | Média | Como Analista de Dados, desejo uma análise comparativa proporcional ao ano de 2020, dado que devido a pandemia teve seus dados afetados, para a comparação verídica de quantidade de acidentes em relações às métricas. | 4 horas | 2 |
+| 6 | Alta | Como Analista de Dados, desejo levantar a localização dos pontos de parada e calcular as distâncias até os acidentes com veículos pesados, buscando entender se a falta de locais adequados para descanso pode estar relacionada aos sinistros. | 5 horas | 2 |
+| 7 | Média | Como Pesquisador de Segurança Viária, desejo Categorizar as movimentações por Unidade da Receita Federal e modal de transporte para identificar o volume e o perfil das principais frotas de cada região. | 4 horas | 2 |
+| 8 | Baixa | Como Gestor do Observatório, desejo separar o dashboard em páginas por relações entre métricas, facilitando a leitura e a interpretação dos dados. A prioridade é menor porque essa melhoria é visual e não impede a realização das análises principais. | 2 |
+| 9 | Média | Como Analista de Dados, desejo ajustar a comparação dos acidentes considerando o impacto da pandemia nos dados de 2020, evitando interpretações distorcidas e tornando as análises entre os anos mais consistentes. | 4 horas | 2 |
 
 ## Relatório da Sprint I
 
