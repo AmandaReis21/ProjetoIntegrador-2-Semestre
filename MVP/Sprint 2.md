@@ -8,14 +8,13 @@
 | 8 | Baixa | Como Gestor do Observatório, desejo separar o dashboard em páginas por relações entre métricas, facilitando a leitura e a interpretação dos dados. A prioridade é menor porque essa melhoria é visual e não impede a realização das análises principais. | 2 horas  | 2 |
 | 9 | Média | Como Analista de Dados, desejo ajustar a comparação dos acidentes considerando o impacto da pandemia nos dados de 2020, evitando interpretações distorcidas e tornando as análises entre os anos mais consistentes. | 4 horas | 2 |
 
-## Relatório da Sprint I
+## Relatório da Sprint II
 
-[Acesse aqui](https://docs.google.com/document/d/1xNO02EGJK5yUMD4mSQKXTtN0j8dPgDdI1gO-DOH35y4/edit?usp=sharing)
+[Acesse aqui](https://docs.google.com/document/d/1LRmfz6N4rVNsMZTuEqgW9m98wc8ByKUY_4ah44g85ek/edit?usp=sharing)
 
-## Apresentação Sprint I
+## Apresentação Sprint II
 
-[Acesse aqui](https://github.com/user-attachments/files/31840310/Meridian.Log.-.Apresentacao.Inicial.pdf)
-
+[Acesse aqui](https://canva.link/4bu1bq7j2ktzy9z)
 # 📌 MVP - [Análise Comparativa Proporcional entre os Anos e Relação entre Métricas]
 
 ## 🎯 Objetivo do MVP
