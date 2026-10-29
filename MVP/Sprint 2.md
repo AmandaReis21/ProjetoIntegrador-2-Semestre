@@ -5,7 +5,7 @@
 |------|------------|------------|------------|--------|
 | 6 | Alta | Como Analista de Dados, desejo levantar a localização dos pontos de parada e calcular as distâncias até os acidentes com veículos pesados, buscando entender se a falta de locais adequados para descanso pode estar relacionada aos sinistros. | 5 horas | 2 |
 | 7 | Média | Como Pesquisador de Segurança Viária, desejo Categorizar as movimentações por Unidade da Receita Federal e modal de transporte para identificar o volume e o perfil das principais frotas de cada região. | 4 horas | 2 |
-| 8 | Baixa | Como Gestor do Observatório, desejo separar o dashboard em páginas por relações entre métricas, facilitando a leitura e a interpretação dos dados. A prioridade é menor porque essa melhoria é visual e não impede a realização das análises principais. | 2 |
+| 8 | Baixa | Como Gestor do Observatório, desejo separar o dashboard em páginas por relações entre métricas, facilitando a leitura e a interpretação dos dados. A prioridade é menor porque essa melhoria é visual e não impede a realização das análises principais. | 2 horas  | 2 |
 | 9 | Média | Como Analista de Dados, desejo ajustar a comparação dos acidentes considerando o impacto da pandemia nos dados de 2020, evitando interpretações distorcidas e tornando as análises entre os anos mais consistentes. | 4 horas | 2 |
 
 ## Relatório da Sprint I
