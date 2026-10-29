@@ -9,11 +9,11 @@
 | 8 | Baixa | Como Gestor do Observatório, espero que o Power BI seja organizado em páginas separadas por tipos de relações entre as métricas, para proporcionar uma visualização mais limpa e detalhada das informações. | 2 horas | 2 |
 | 9 | Média | Como Analista de Dados, desejo uma análise comparativa proporcional ao ano de 2020, dado que devido à pandemia teve seus dados afetados, para a comparação verídica de quantidade de acidentes em relação às métricas. | 4 horas | 2 |
 
-## Relatório da Sprint I
+## Relatório da Sprint II
 
-[Acesse aqui](https://docs.google.com/document/d/1qeIFFxbTSp26ceC6APSclErt9Av62AAGU-kcCncGHkc/edit?usp=sharing)
+[Acesse aqui](https://docs.google.com/document/d/1LRmfz6N4rVNsMZTuEqgW9m98wc8ByKUY_4ah44g85ek/edit?usp=sharing)
 
-## Apresentação Sprint I
+## Apresentação Sprint II
 
 [Acesse aqui](https://canva.link/4bu1bq7j2ktzy9z)
 
