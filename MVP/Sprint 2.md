@@ -104,4 +104,4 @@ Breve explicação do que será desenvolvido e entregue nesta etapa:
 
 - **Apresentação inicial:** [Acesse aqui](https://github.com/user-attachments/files/31840310/Meridian.Log.-.Apresentacao.Inicial.pdf)
 
-- **Ferramentas utilizadas:** Power BI, Google Colab e Excel.
+- **Ferramentas utilizadas:** Power BI, [Google Colab](https://colab.research.google.com/drive/1TveL9qQdeUzRa76BYpVNrZX2twkRR8GF?usp=sharing) e Excel.
