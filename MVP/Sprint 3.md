@@ -7,8 +7,15 @@
 | 10 | Alta | Como Pesquisador de Segurança Viária, desejo desenvolver um modelo de previsão estatística de futuros acidentes e mapeamento de rotas mais viáveis, visando propor ações preventivas. | 8 horas | 3 |
 | 11 | Média | Como Gestor do Observatório, desejo receber o Power BI finalizado e validado com todas as análises e previsões integradas, visando apresentar os resultados finais aos stakeholders e direcionar ações de cobrança. | 3 horas | 3 |
 
+# Vídeo - Sprint 3
+Link: [Acesse aqui]() 
+
 # Relatório da Sprint 3
 Link: [Acesse aqui]()
+
+# Apresentação da Sprint 3
+Link: [Acesse aqui]()
+
 # 📌 MVP - [...]
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
